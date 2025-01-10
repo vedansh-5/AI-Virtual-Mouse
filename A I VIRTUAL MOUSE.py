@@ -408,5 +408,6 @@ class GestureController:
         cv2.destroyAllWindows()    # used to free all memeory space 
 
 # uncomment to run directly
-gc1 = GestureController()   # calling....
-gc1.start()
+if __name__ == "__main__":
+    gc1 = GestureController()   # calling....
+    gc1.start()
