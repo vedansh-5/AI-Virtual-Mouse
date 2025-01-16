@@ -24,7 +24,7 @@ pip install opencv-python mediapipe autopy numpy
     ```
 2. Position your hand in front of the webcam
 3. Use the following gestures:
-    - Move your index finger to control cursor movement
+    - Move your index and middle finger, with some distance between them to control cursor movement.
     - Bring index and middle fingers together to perform a click
     - Hold index and middle fingers together to drag items
     - Hold both index and middle fingers up to hover the mouse cursor
